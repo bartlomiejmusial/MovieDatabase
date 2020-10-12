@@ -1,3 +1,3 @@
 # Movie Database
-Project of movie Database
+SQL Project of Movie Database
 
