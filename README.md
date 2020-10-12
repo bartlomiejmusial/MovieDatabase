@@ -1,2 +1,2 @@
-# october2020_Project
+# Movie Database
 October 2020 Project
