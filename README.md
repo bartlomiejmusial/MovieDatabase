@@ -1,2 +1,3 @@
 # Movie Database
-October 2020 Project
+Project of movie Database
+
